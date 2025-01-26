@@ -1,0 +1,15 @@
+.table {
+    -fx-font-size: 14px;
+    -fx-font-family: Arial, sans-serif;
+    -fx-background-color: #f4f4f4;
+}
+
+.table .column-header {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.table .cell {
+    -fx-padding: 5px;
+}
